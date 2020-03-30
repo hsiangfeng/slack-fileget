@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/functions";
+@import "./helpers/variables"; 
+@import "~bootstrap/scss/bootstrap";
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
